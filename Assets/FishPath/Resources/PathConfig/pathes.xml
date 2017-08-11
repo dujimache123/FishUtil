@@ -1,0 +1,57 @@
+<Pathes>
+  <OnePath id="0">
+    <ControlPoint id="0" time="1.5" speedMulti="1" rotation="0" />
+    <ControlPoint id="1" time="1" speedMulti="1" rotation="25" />
+    <ControlPoint id="2" time="1" speedMulti="1" rotation="55" />
+    <ControlPoint id="3" time="1" speedMulti="1" rotation="24" />
+    <ControlPoint id="4" time="2.5" speedMulti="1" rotation="2.5" />
+    <ControlPoint id="5" time="1.5" speedMulti="1" rotation="-25" />
+    <ControlPoint id="6" time="1" speedMulti="1" rotation="-63" />
+    <ControlPoint id="7" time="1" speedMulti="1" rotation="-19" />
+    <ControlPoint id="8" time="3" speedMulti="1" rotation="0" />
+    <ControlPoint id="9" time="1" speedMulti="1" rotation="30" />
+    <ControlPoint id="10" time="1" speedMulti="1" rotation="56" />
+    <ControlPoint id="11" time="1" speedMulti="1" rotation="20" />
+    <ControlPoint id="12" time="2.5" speedMulti="1" rotation="0" />
+    <ControlPoint id="13" time="1" speedMulti="1" rotation="0" />
+  </OnePath>
+  <OnePath id="1">
+    <ControlPoint id="0" time="1.5" speedMulti="1" rotation="0" />
+    <ControlPoint id="1" time="1" speedMulti="1" rotation="-25" />
+    <ControlPoint id="2" time="1" speedMulti="1" rotation="-55" />
+    <ControlPoint id="3" time="1" speedMulti="1" rotation="-24" />
+    <ControlPoint id="4" time="2.5" speedMulti="1" rotation="-2.5" />
+    <ControlPoint id="5" time="1.5" speedMulti="1" rotation="25" />
+    <ControlPoint id="6" time="1" speedMulti="1" rotation="63" />
+    <ControlPoint id="7" time="1" speedMulti="1" rotation="19" />
+    <ControlPoint id="8" time="3" speedMulti="1" rotation="0" />
+    <ControlPoint id="9" time="1" speedMulti="1" rotation="-30" />
+    <ControlPoint id="10" time="1" speedMulti="1" rotation="-56" />
+    <ControlPoint id="11" time="1" speedMulti="1" rotation="-20" />
+    <ControlPoint id="12" time="2.5" speedMulti="1" rotation="0" />
+  </OnePath>
+  <OnePath id="2">
+    <ControlPoint id="0" time="0.8" speedMulti="1" rotation="4" />
+    <ControlPoint id="1" time="0.6" speedMulti="1" rotation="46" />
+    <ControlPoint id="2" time="0.5" speedMulti="1" rotation="40" />
+    <ControlPoint id="3" time="1.2" speedMulti="1" rotation="8" />
+    <ControlPoint id="4" time="0.5" speedMulti="1" rotation="-13" />
+    <ControlPoint id="5" time="1" speedMulti="1" rotation="-78" />
+    <ControlPoint id="6" time="1" speedMulti="1" rotation="-9" />
+    <ControlPoint id="7" time="0.8" speedMulti="1" rotation="16" />
+    <ControlPoint id="8" time="0.8" speedMulti="1" rotation="70" />
+    <ControlPoint id="9" time="0.5" speedMulti="1" rotation="12" />
+    <ControlPoint id="10" time="1" speedMulti="1" rotation="-2" />
+    <ControlPoint id="11" time="0.5" speedMulti="1" rotation="-20.4" />
+    <ControlPoint id="12" time="0.5" speedMulti="1" rotation="-43" />
+    <ControlPoint id="13" time="0.5" speedMulti="1" rotation="-30" />
+    <ControlPoint id="14" time="1.3" speedMulti="1" rotation="0" />
+    <ControlPoint id="15" time="0.5" speedMulti="1" rotation="30" />
+    <ControlPoint id="16" time="0.5" speedMulti="1" rotation="45" />
+    <ControlPoint id="17" time="0.5" speedMulti="1" rotation="20" />
+    <ControlPoint id="18" time="1" speedMulti="1" rotation="0" />
+    <ControlPoint id="19" time="0.5" speedMulti="1" rotation="-15" />
+    <ControlPoint id="20" time="1" speedMulti="1" rotation="-78" />
+    <ControlPoint id="21" time="1" speedMulti="1" rotation="0" />
+  </OnePath>
+</Pathes>
